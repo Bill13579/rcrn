@@ -14,4 +14,4 @@ The built-in `Profile()` method gives out a percentage of near 50%.
 
 # State
 
-RCRN is completely an experiment for now, so it should definitely **not** be used for **any** production applications.
+RCRN is an experiment. It should definitely **not** be used for **any** production applications. I repeat, it is **NOT truly random**, **can be EASILY MANIPULATED WITH OS THREAD SCHEDULING**, and was a fun experiment I did way back when. :)
